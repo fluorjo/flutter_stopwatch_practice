@@ -33,4 +33,10 @@ class _StopWatchPageState extends State<StopWatchPage> {
       floatingActionButtonLocation: FloatingActionButtonLocation.centerDocked,
     );
   }
+
+  Widget _buildbody() {
+    return Container();
+  }
+
+  void _clickButton() {}
 }
